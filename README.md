@@ -8,10 +8,10 @@ The files for this container can be found at my [GitHub repo](https://github.com
 # How to use this image
 
 ## Pull Image Locally
-`docker pull syncthing-discovery-bluemix:latest`
+`docker pull t4skforce/syncthing-discovery-bluemix:latest`
 
 ## Push Image Remotely
-`docker tag syncthing-discovery-bluemix:latest registry.ng.bluemix.net/<repository>/syncthing-discovery-bluemix:latest`
+`docker tag t4skforce/syncthing-discovery-bluemix:latest registry.ng.bluemix.net/<repository>/syncthing-discovery-bluemix:latest`
 
 `docker push registry.ng.bluemix.net/<repository>/syncthing-discovery-bluemix:latest`
 
